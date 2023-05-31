@@ -1,0 +1,23 @@
+[
+    {
+      "name": "The Witcher 3",
+      "img": "https://cdn-products.eneba.com/resized-products/0c87248bbfac2866d434aad19334b24b_350x200_1x-0.jpg",
+      "year": 2015,
+      "genero": "RPG",
+      "stock": 10
+    },
+    {
+      "name": "Super Mario Bros",
+      "img": "https://i.blogs.es/b9f542/1500x500-5-/840_560.jpeg",
+      "year": 2023,
+      "genero": "Action",
+      "stock": 0
+    },
+    {
+      "name": "God of War",
+      "img": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
+      "year": 2018,
+      "genero": "Action",
+      "stock": 15
+    }
+  ]
